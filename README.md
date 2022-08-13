@@ -18,12 +18,18 @@ For Windows 8 and higher set the PROMPT variable to:
 $e[1;44m*$e[41m▀▀$e[0;1m $P$G
 ```
 
-To change your Command prompt in Windows 8, go to Control Panel and Click on SYSTEM PROPERTIES.  
+To change your Command prompt in Windows 8, go to Control Panel and Click on SYSTEM PROPERTIES. 
+ 
 Windows 10 and 11 search from the START menu SYSTEM PROPERTIES
+
 Make sure you are in the ADVANCED tab
+
 Select ENVIRONMENT VARIABLES at the bottom right corner
+
 Under the second heading, SYSTEM VARIABLES look for the Variable PROMPT.  If you do not see it, click NEW and then enter PROMPT for VARIABLE
+
 and the desired code for the Prompt you want.
+
 
 Syntax:
 |Expression     |Definition                                                                  |
