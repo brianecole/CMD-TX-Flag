@@ -1,0 +1,1 @@
+PROMPT $e[1m$e[K$_$e[1;44m*$e[0m$e[K$e[1;41m▀$e[0m $e[1;37m $h$P$e[1;37m$g$e[1;37m
